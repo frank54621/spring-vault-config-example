@@ -1,4 +1,4 @@
-# spring-vault-config.example
+# spring-vault-config-example
 This is a sample application which retrieves secrets from Spring vault.
 
 ## Install Vault server
